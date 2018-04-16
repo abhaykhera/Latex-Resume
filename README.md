@@ -1,2 +1,2 @@
 # Latex-Resume
-My Resume in Latex
+Latex Template for Resume 
